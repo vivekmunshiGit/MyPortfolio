@@ -67,6 +67,41 @@
   </ItemGroup>
   <ItemGroup>
     <Content Include="packages.config" />
+    <Content Include="assets\bootstrap\fonts\glyphicons-halflings-regular.eot" />
+    <Content Include="assets\bootstrap\fonts\glyphicons-halflings-regular.ttf" />
+    <Content Include="assets\bootstrap\fonts\glyphicons-halflings-regular.woff" />
+    <Content Include="assets\font-awesome\fonts\fontawesome-webfont.eot" />
+    <Content Include="assets\font-awesome\fonts\fontawesome-webfont.ttf" />
+    <Content Include="assets\font-awesome\fonts\fontawesome-webfont.woff" />
+    <Content Include="assets\font-awesome\fonts\fontawesome-webfont.woff2" />
+    <Content Include="assets\font-awesome\fonts\FontAwesome.otf" />
+    <Content Include="assets\font-awesome\less\animated.less" />
+    <Content Include="assets\font-awesome\less\bordered-pulled.less" />
+    <Content Include="assets\font-awesome\less\core.less" />
+    <Content Include="assets\font-awesome\less\fixed-width.less" />
+    <Content Include="assets\font-awesome\less\font-awesome.less" />
+    <Content Include="assets\font-awesome\less\icons.less" />
+    <Content Include="assets\font-awesome\less\larger.less" />
+    <Content Include="assets\font-awesome\less\list.less" />
+    <Content Include="assets\font-awesome\less\mixins.less" />
+    <Content Include="assets\font-awesome\less\path.less" />
+    <Content Include="assets\font-awesome\less\rotated-flipped.less" />
+    <Content Include="assets\font-awesome\less\stacked.less" />
+    <Content Include="assets\font-awesome\less\variables.less" />
+    <Content Include="assets\font-awesome\scss\font-awesome.scss" />
+    <Content Include="assets\font-awesome\scss\_animated.scss" />
+    <Content Include="assets\font-awesome\scss\_bordered-pulled.scss" />
+    <Content Include="assets\font-awesome\scss\_core.scss" />
+    <Content Include="assets\font-awesome\scss\_fixed-width.scss" />
+    <Content Include="assets\font-awesome\scss\_icons.scss" />
+    <Content Include="assets\font-awesome\scss\_larger.scss" />
+    <Content Include="assets\font-awesome\scss\_list.scss" />
+    <Content Include="assets\font-awesome\scss\_mixins.scss" />
+    <Content Include="assets\font-awesome\scss\_path.scss" />
+    <Content Include="assets\font-awesome\scss\_rotated-flipped.scss" />
+    <Content Include="assets\font-awesome\scss\_stacked.scss" />
+    <Content Include="assets\font-awesome\scss\_variables.scss" />
+    <Content Include="obj\Debug\DesignTimeResolveAssemblyReferencesInput.cache" />
     <None Include="Web.Debug.config">
       <DependentUpon>Web.config</DependentUpon>
     </None>
@@ -75,10 +110,72 @@
     </None>
   </ItemGroup>
   <ItemGroup>
+    <Content Include="assets\bootstrap\css\bootstrap.min.css" />
+    <Content Include="assets\bootstrap\fonts\glyphicons-halflings-regular.svg" />
+    <Content Include="assets\bootstrap\js\bootstrap.min.js" />
+    <Content Include="assets\flexslider\flexslider.css" />
+    <Content Include="assets\flexslider\jquery.flexslider.js" />
+    <Content Include="assets\font-awesome\css\font-awesome.css" />
+    <Content Include="assets\font-awesome\css\font-awesome.min.css" />
+    <Content Include="assets\font-awesome\fonts\fontawesome-webfont.svg" />
+    <Content Include="assets\lightbox\css\lightbox.css" />
+    <Content Include="assets\lightbox\img\close.png" />
+    <Content Include="assets\lightbox\img\loading.gif" />
+    <Content Include="assets\lightbox\img\next.png" />
+    <Content Include="assets\lightbox\img\prev.png" />
+    <Content Include="assets\lightbox\js\lightbox.min.js" />
+    <Content Include="assets\smoothscroll\smoothscroll.js" />
+    <Content Include="assets\textrotator\jquery.simple-text-rotator.js" />
+    <Content Include="assets\textrotator\simpletextrotator.css" />
+    <Content Include="bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll" />
+    <Content Include="bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml" />
+    <Content Include="css\animate.css" />
+    <Content Include="css\style.css" />
+    <Content Include="img\about1.png" />
+    <Content Include="img\about2.png" />
+    <Content Include="img\about3.png" />
+    <Content Include="img\blog1.jpg" />
+    <Content Include="img\blog2.jpg" />
+    <Content Include="img\blog3.jpg" />
+    <Content Include="img\clients.png" />
+    <Content Include="img\favicon.ico" />
+    <Content Include="img\h1-bg.png" />
+    <Content Include="img\header-bg.jpg" />
+    <Content Include="img\newsletter.png" />
+    <Content Include="img\portfolio\portfolio-01-large.jpg" />
+    <Content Include="img\portfolio\portfolio-01-thumbnail.jpg" />
+    <Content Include="img\portfolio\portfolio-02-large.jpg" />
+    <Content Include="img\portfolio\portfolio-02-thumbnail.jpg" />
+    <Content Include="img\portfolio\portfolio-03-large.jpg" />
+    <Content Include="img\portfolio\portfolio-03-thumbnail.jpg" />
+    <Content Include="img\portfolio\portfolio-04-large.jpg" />
+    <Content Include="img\portfolio\portfolio-04-thumbnail.jpg" />
+    <Content Include="img\portfolio\portfolio-05-large.jpg" />
+    <Content Include="img\portfolio\portfolio-05-thumbnail.jpg" />
+    <Content Include="img\portfolio\portfolio-06-large.jpg" />
+    <Content Include="img\portfolio\portfolio-06-thumbnail.jpg" />
+    <Content Include="img\portfolio\portfolio-07-large.jpg" />
+    <Content Include="img\portfolio\portfolio-07-thumbnail.jpg" />
+    <Content Include="img\portfolio\portfolio-08-large.jpg" />
+    <Content Include="img\portfolio\portfolio-08-thumbnail.jpg" />
+    <Content Include="img\preloader.gif" />
+    <Content Include="img\scroll-down.png" />
+    <Content Include="index.html" />
+    <Content Include="js\classie.js" />
+    <Content Include="js\main.js" />
+    <Content Include="js\modernizr.js" />
+    <Content Include="js\script.js" />
+    <Content Include="js\waypoints.min.js" />
     <Content Include="Web.config" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="obj\Debug\TemporaryGeneratedFile_036C0B5B-1481-4323-8D20-8F5ADCB23D92.cs" />
+    <Compile Include="obj\Debug\TemporaryGeneratedFile_5937a670-0e60-4077-877b-f7221da3dda1.cs" />
+    <Compile Include="obj\Debug\TemporaryGeneratedFile_E7A71F73-0F8D-4B9B-B56E-8E70B10BC5D3.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
+  </ItemGroup>
+  <ItemGroup>
+    <Folder Include="obj\Debug\TempPE\" />
   </ItemGroup>
   <PropertyGroup>
     <VisualStudioVersion Condition="'$(VisualStudioVersion)' == ''">10.0</VisualStudioVersion>
